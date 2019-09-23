@@ -49,7 +49,7 @@ komi flashes /dev/sda disk with image /home/anej/Downloads/arch.iso
 
 *TODO*
 - copy whole disks
-- formatting
+- partitioning
 - zipping backups for improved space efficiency when storing
 - possible performance improvements
 - minor UI improvements
